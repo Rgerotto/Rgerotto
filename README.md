@@ -5,11 +5,11 @@
 <p>Currently, my goal is to continue growing and improving as a web developer, exploring new technologies and expanding my knowledge in web design. I am open to opportunities that allow me to collaborate on challenging and creative projects, where I can use my skills in graphic design and web development to create impactful digital experiences.</p> 
 <p>If you are looking for a versatile professional who is excited to explore new opportunities and contribute to the success of your project, don’t hesitate to reach me out!</p>
 
-- 🔭 I’m currently working on [My own Portfolio]([https://strong-baklava-82f2eb.netlify.app/](https://github.com/Rgerotto/portfolio_Rafael_2024))
+- 🔭 I’m currently working on [My own Portfolio](https://github.com/Rgerotto/portfolio_Rafael_2024)
 
 - 🌱 I’m currently learning **Javascript, Reactjs and Angular**
 
-- 🤝 I’m looking for help with [My own Portfolio]([https://strong-baklava-82f2eb.netlify.app/](https://github.com/Rgerotto/portfolio_Rafael_2024))
+- 🤝 I’m looking for help with [My own Portfolio](https://github.com/Rgerotto/portfolio_Rafael_2024)
 
 - 📫 How to reach me **rafael.gerotto@hotmail.com**
 
